@@ -5,7 +5,7 @@
 -git add .
 -git commit -m "เพิ่มเมนูนําทางแบบ Responsive"
 -git add .
--git commit -m "เพิ่มสวน ่ Hero และปุ่ มเรียกให ้ดําเนินการ"
+-git commit -m "เพิ่มสวน ่ Hero และปุ่มเรียกให ้ดําเนินการ"
 -git add .
 -git commit -m "เพิ่มสวนแสดงคุณสมบัติพร้อมการ์ด"
 -git add .
